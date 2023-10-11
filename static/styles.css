@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-image: url('https://media.istockphoto.com/id/1353996892/id/foto/planet-luar-angkasa-dilihat-dari-permukaan-bulan-permukaan-bulan-penuh-dengan-batu-batu-kecil.jpg?s=1024x1024&w=is&k=20&c=bBP3jSuqftJfDwe2c9z7bcmPRk-S0d-7LOcIQ4j0KqA='); /* Ganti 'mars.jpg' dengan path gambar Mars yang sesuai */
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Warna teks yang kontras dengan gambar latar belakang */
+}
+
+h1 {
+    color: #fff; /* Warna teks yang kontras dengan gambar latar belakang */
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Latar belakang elemen form dengan transparansi */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#orders {
+    margin-top: 20px;
+}
